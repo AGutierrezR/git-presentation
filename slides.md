@@ -33,5 +33,36 @@ layout: center
 </div>
 
 ---
+layout: image-right
+image: ./assets/img/library.jpg
+---
+
+<div class="flex h-full flex-col items-center justify-center">
+
+## ¿Qué problemas resuelve Git?
+<br>
+
+  <div>
+
+  Supongamos que estás editando en un archivo, quieres guardar los cambios pero no quieres borrar el archivo anterior, por lo que usas **"Guardar Como..."** para guardar la nueva versión en un nuevo archivo y mantener la versión vieja.
+
+  Ahora si tienes una gran cantidad de archivos que van juntos, como un proyecto de desarrollo, para mantener la versión antigua debes archivar todo el directorio. Tener varias versiones puede ser costoso en tiempo y espacio.
+
+  </div>
+
+</div>
+
+---
+layout: image-left
+image: ./assets/img/git-history.jpg
+---
+
+<div class="flex h-full flex-col items-center justify-center gap-4">
+
+## ¿Cómo Git resuelve este problema?
+
+Al iniciar un repositorio de se crea una directorio **.git/** en el que se van a guardar archivos con los cambios que se han generado, estos archivos *no son copias de los archivos que modificamos, sino que son referencias de los cambios que realizamos*
+
+</div>
 
 # Git
