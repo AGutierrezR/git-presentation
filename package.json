@@ -10,5 +10,8 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
-  "name": "git-presentation"
+  "name": "git-presentation",
+  "devDependencies": {
+    "@iconify-json/wi": "^1.1.1"
+  }
 }
