@@ -1,6 +1,6 @@
 ---
 theme: default
-highlighter: shiki
+highlighter: prism
 class: text-center
 monaco: dev
 fonts:
@@ -29,4 +29,8 @@ src: ./slides/solution.md
 
 ---
 src: ./slides/how-to-use.md
+---
+
+---
+src: ./slides/instalation.md
 ---
