@@ -1,8 +1,7 @@
 # ¿Cómo usar Git?
 <br>
+
 Git puede ser usado de dos maneras:
-<br>
-<br>
 
 - Atraves de la Terminal o Línea de Comando
 - Por medio de una Interfaz Gráfica

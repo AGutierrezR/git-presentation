@@ -1,8 +1,6 @@
 # Instalación
-<br>
+
 Lo primero que debemos hacer es asegurarnos de tener instalado Git en nuestros ordenadores.
-<br>
-<br>
 
 > Puede descargar Git desde https://git-scm.com/downloads
 
