@@ -1,0 +1,4 @@
+.slidev-layout:not(.with-lead) h1 + p {
+  margin: 1rem 0;
+  opacity: 1;
+}
