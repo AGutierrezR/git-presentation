@@ -98,3 +98,15 @@ src: ./slides/stages-1.md
 ---
 src: ./slides/stages-2.md
 ---
+
+---
+src: ./slides/status.md
+---
+
+---
+src: ./slides/add.md
+---
+
+---
+src: ./slides/commit.md
+---

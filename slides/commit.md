@@ -1,18 +1,9 @@
----
-layout: image-right
-image: ./assets/img/camera.jpg
----
+## Realizando commits
 
-<div class="flex h-full flex-col items-center justify-center">
+Para realizar un commit de los archivos del staging area, usamos el siguiente comando:
 
-  <div class="w-full">
+```bash
+git commit -m "Mensaje del Commit"
+```
 
-  ## Commit
-  </div>
-
-  La idea de usar un control de versiones es llevar el registro de los cambios en Git estos se llaman Commits.
-
-  El guardado tradicional funciona a través de una operación que sistema de archivos que se usa para sobreescribir archivos existentes o crear nuevos.
-  
-  En Git, committing es una operación que actúa sobre una colección de archivos y directorios.
-</div>
+Dentro de las comilla, escribimos el mensaje del commit, que será usado para identifícalo en el historial de commits
