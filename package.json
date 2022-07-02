@@ -12,6 +12,7 @@
   },
   "name": "git-presentation",
   "devDependencies": {
+    "@iconify-json/mdi": "^1.1.24",
     "@iconify-json/wi": "^1.1.1"
   }
 }
