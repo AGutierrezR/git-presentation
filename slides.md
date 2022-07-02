@@ -58,3 +58,14 @@ src: ./slides/configuration.md
 ---
 
 ---
+src: ./slides/init.md
+---
+
+---
+src: ./slides/command-structure.md
+---
+
+---
+src: ./slides/alias.md
+---
+
