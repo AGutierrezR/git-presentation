@@ -69,3 +69,32 @@ src: ./slides/command-structure.md
 src: ./slides/alias.md
 ---
 
+---
+layout: center
+class: with-lead text-center
+---
+
+# Commit
+
+Snapshot de proyecto
+
+---
+src: ./slides/commit.md
+---
+
+---
+layout: center
+class: with-lead text-center
+---
+
+# Etapas de Git 
+
+Procedimiento para realizar un commit
+
+---
+src: ./slides/stages-1.md
+---
+
+---
+src: ./slides/stages-2.md
+---
