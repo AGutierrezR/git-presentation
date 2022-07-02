@@ -50,5 +50,11 @@ src: ./slides/how-to-use.md
 ---
 
 ---
-src: ./slides/instalation.md
+src: ./slides/installation.md
+---
+
+---
+src: ./slides/configuration.md
+---
+
 ---
