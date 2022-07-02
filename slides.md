@@ -79,7 +79,7 @@ class: with-lead text-center
 Snapshot de proyecto
 
 ---
-src: ./slides/commit.md
+src: ./slides/committing.md
 ---
 
 ---
