@@ -52,7 +52,7 @@ const props = defineProps({
   fill: #4ed1a1;
 }
 .cls-7 {
-  fill: #ccc;
+  fill: currentColor;
 }
 .cls-8 {
   stroke: #ccc;
@@ -61,7 +61,7 @@ const props = defineProps({
   fill: #b18be8;
 }
 .cls-10 {
-  fill: #999;
+  fill: currentColor;
 }
 </style>
 

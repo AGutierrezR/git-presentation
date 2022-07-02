@@ -28,6 +28,24 @@ src: ./slides/solution.md
 ---
 
 ---
+layout: center
+---
+
+# Ventajas de Usar Git
+
+---
+src: ./slides/features-1.md
+---
+
+---
+src: ./slides/features-2.md
+---
+
+---
+src: ./slides/features-3.md
+---
+
+---
 src: ./slides/how-to-use.md
 ---
 
