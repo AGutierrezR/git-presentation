@@ -110,3 +110,15 @@ src: ./slides/add.md
 ---
 src: ./slides/commit.md
 ---
+
+---
+src: ./slides/stages-3.md
+---
+
+---
+src: ./slides/log-1.md
+---
+
+---
+src: ./slides/log-2.md
+---
