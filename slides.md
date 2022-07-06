@@ -164,3 +164,32 @@ class: text-center
 src: ./slides/ignore.md
 ---
 
+---
+layout: center
+class: text-center with-lead
+---
+
+# Branches
+
+El corazon de la colaboracion
+
+---
+src: ./slides/branches-1.md
+---
+
+---
+src: ./slides/branches-2.md
+---
+
+---
+src: ./slides/merge.md
+---
+
+---
+src: ./slides/merging-types.md
+---
+
+---
+src: ./slides/conflicts.md
+---
+
