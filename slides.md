@@ -193,3 +193,41 @@ src: ./slides/merging-types.md
 src: ./slides/conflicts.md
 ---
 
+---
+layout: center
+class: text-center with-lead
+---
+
+# Stash
+
+Commits sin branches
+
+---
+src: ./slides/stash.md
+---
+
+---
+layout: center
+class: text-center with-lead
+---
+
+# Reset
+
+Deshacer y Rehacer
+
+---
+src: ./slides/reset.md
+---
+
+---
+layout: center
+class: text-center with-lead
+---
+
+# Reflog
+
+Historial de acciones
+
+---
+src: ./slides/reflog.md
+---
