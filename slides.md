@@ -138,3 +138,18 @@ src: ./slides/disclaimer.md
 src: ./slides/commit-travel.md
 ---
 
+---
+layout: center
+class: text-center
+---
+
+# Moviendo Archivos
+
+---
+src: ./slides/ship-of-theseus.md
+---
+
+---
+src: ./slides/move.md
+---
+
