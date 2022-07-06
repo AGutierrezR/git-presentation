@@ -122,3 +122,19 @@ src: ./slides/log-1.md
 ---
 src: ./slides/log-2.md
 ---
+
+---
+layout: center
+class: text-center
+---
+
+# Viajando entre Commits
+
+---
+src: ./slides/disclaimer.md
+---
+
+---
+src: ./slides/commit-travel.md
+---
+
