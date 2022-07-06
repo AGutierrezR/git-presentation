@@ -153,3 +153,14 @@ src: ./slides/ship-of-theseus.md
 src: ./slides/move.md
 ---
 
+---
+layout: center
+class: text-center
+---
+
+# Git Ignore
+
+---
+src: ./slides/ignore.md
+---
+
