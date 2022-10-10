@@ -3,7 +3,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "deploy": "slidev build --base /git-presentation/ && gh-pages -d dist -b gh-pages"
   },
   "dependencies": {
     "@slidev/cli": "^0.29.2",
@@ -14,6 +15,7 @@
   "devDependencies": {
     "@iconify-json/mdi": "^1.1.24",
     "@iconify-json/wi": "^1.1.1",
+    "gh-pages": "^4.0.0",
     "playwright-chromium": "^1.23.1"
   }
 }

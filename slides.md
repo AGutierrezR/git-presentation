@@ -1,5 +1,6 @@
 ---
 theme: default
+title: 'Git'
 highlighter: prism
 class: text-center
 monaco: dev
