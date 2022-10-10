@@ -8,4 +8,4 @@ git add archivo.ts archivo2.ts ...
 git add .
 ```
 
-<img style="margin: auto;" width="475" src="assets/img/add.png"/>
+<img style="margin: auto;" width="475" src="/assets/img/add.png"/>

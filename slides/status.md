@@ -8,4 +8,4 @@ git status
 
 Con esto aparecerá una lista de que archivos han sido agregados, cuales han cambiado y cuales han sido borrados.
 
-<img style="margin: auto;" width="475" src="assets/img/status.png"/>
+<img style="margin: auto;" width="475" src="/assets/img/status.png"/>
