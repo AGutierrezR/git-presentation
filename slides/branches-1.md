@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./assets/img/branches.jpg
+image: /images/branches.jpg
 ---
 
 <div class="flex h-full flex-col justify-center">

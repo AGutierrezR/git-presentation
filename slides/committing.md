@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./assets/img/camera.jpg
+image: /images/camera.jpg
 ---
 
 <div class="flex h-full flex-col items-center justify-center">

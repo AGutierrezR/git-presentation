@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./assets/img/stages.jpg
+image: /images/stages.jpg
 ---
 
 <div class="flex h-full flex-col items-center justify-center">

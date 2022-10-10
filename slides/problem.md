@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./assets/img/library.jpg
+image: /images/library.jpg
 ---
 
 <div class="flex h-full flex-col items-center justify-center">

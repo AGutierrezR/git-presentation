@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: ./assets/img/types.jpg
+image: /images/types.jpg
 ---
 
 <div class="flex h-full flex-col justify-center">

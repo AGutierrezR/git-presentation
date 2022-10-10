@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./assets/img/conflicts.jpg
+image: /images/conflicts.jpg
 ---
 
 <div class="flex h-full flex-col justify-center">

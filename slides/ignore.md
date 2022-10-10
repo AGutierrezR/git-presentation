@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: ./assets/img/ignore.jpg
+image: /images/ignore.jpg
 ---
 
 <div class="flex h-full flex-col justify-center">
