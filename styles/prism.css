@@ -1,0 +1,15 @@
+:root {
+  --inline-code-background: rgba(135, 131, 120, 0.15);
+}
+
+:not(pre) > code {
+  font-size: 0.8em;
+  color: var(--clr-red);
+  background: var(--inline-code-background);
+  @apply font-normal p-1;
+}
+
+:not(pre) > code:before,
+:not(pre) > code:after {
+  display: none;
+}

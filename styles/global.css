@@ -1,9 +1,21 @@
-.slidev-layout:not(.with-lead) h1 + p {
-  margin: 1rem 0;
-  opacity: 1;
+.slidev-layout:not(.with-lead) {
+  h1 + p {
+    margin: 1rem 0;
+    opacity: 1;
+  }
 }
 
-.slidev-layout .flex p {
-  margin: 0;
-  margin-top: 1rem;
+.slidev-layout {
+  ul {
+    list-style: disc;
+  }
+
+  .flex p {
+    margin: 0;
+    margin-top: 1rem;
+  }
+
+  blockquote {
+    border-left-width: 4px;
+  }
 }
